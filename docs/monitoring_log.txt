@@ -1,4 +1,6 @@
 
 =======================================================
 Run: 2026-05-20 03:22:11.877256
- ALERT: Data is 111 days old — may need refresh
+ ALERT: Data is 111 days old ï¿½ may need refresh
+
+ROLLBACK: Data freshness alert triggered 2026-05-20 - fix applied
