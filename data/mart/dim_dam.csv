@@ -1,0 +1,15 @@
+dam_name,catchment,is_big6,capacity_ml,dam_key
+Wemmershoek,Wemmershoek,True,58644,1
+Steenbras Lower,Steenbras,True,33517,2
+Steenbras Upper,Steenbras,False,31767,3
+Voelvlei,Voelvlei,True,164095,4
+Hely-Hutchinson,Table Mountain,False,925,5
+Woodhead,Table Mountain,False,955,6
+Victoria,Table Mountain,False,531,7
+Alexandra,Table Mountain,False,184,8
+De Villiers,Table Mountain,False,242,9
+Kleinplaats,Kleinplaats,False,1301,10
+Lewis Gay,Lewis Gay,False,171,11
+Theewaterskloof,Theewaterskloof,True,480188,12
+Berg River,Berg River,True,130010,13
+Land en Zeezicht,Land en Zeezicht,False,450,14
